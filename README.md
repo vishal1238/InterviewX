@@ -100,7 +100,7 @@ No generic questions. No cookie-cutter prep. Just interview simulations **built 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/interviewx.git
+git clone https://github.com/vishal1238/interviewx.git
 cd interviewx
 ```
 
